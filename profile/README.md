@@ -1,5 +1,3 @@
-## Hi there 👋
-
 We build scalable software solutions by combining human expertise with artificial intelligence.
 
 Our mission is to deliver robust, adaptable, and high-impact digital products through strong engineering fundamentals, thoughtful design, and domain-driven problem solving. We believe AI should amplify human capability, not replace it.
